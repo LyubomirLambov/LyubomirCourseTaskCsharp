@@ -1,0 +1,9 @@
+TASK
+
+Create a program that creates an array with N integers
+(N must be used in the range [0, 1 000 000], whose
+the elements have an absolute value of less than or equal to 1,000,000.
+Find the indices for the largest size of its products, which are smaller
+or equal to a completely positive number X.
+If such an index is not present, the value of N will be returned.
+Use the double search method.
